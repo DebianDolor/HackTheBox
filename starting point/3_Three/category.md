@@ -1,0 +1,6 @@
+- Cloud
+- AWS
+- Website Structure Discovery
+- Bucket Enumeration
+- File Upload
+- Anonymous/Guest Access

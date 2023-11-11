@@ -1,0 +1,9 @@
+- Network Protocols
+- MSSQL
+- SMB
+- Impacket
+- Powershell
+- RCE
+- Clear Text Credentials
+- Information Disclosure
+- Anonymous/Guest Access

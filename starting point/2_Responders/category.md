@@ -1,0 +1,9 @@
+- WinRM
+- Network Protocols
+- XAMPP, PHP
+- SMB
+- Responder
+- Password Cracking
+- Hash Capture
+- RFI
+- RCE

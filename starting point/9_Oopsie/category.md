@@ -1,0 +1,8 @@
+- PHP, Apache
+- Session Handling
+- SUID Exploitation
+- IDOR
+- path Hijacking
+- File Upload
+- Authentication Bypass
+- Website Structure Discovery
